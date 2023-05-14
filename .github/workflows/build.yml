@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ archive/v4 ]
+    branches: [ stable/v3 ]
   pull_request:
-    branches: [ archive/v4 ]
+    branches: [ stable/v3 ]
 
 jobs:
   releaseJar:
