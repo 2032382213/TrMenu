@@ -1,4 +1,4 @@
-# [Invero](http://invero.trixey.cc/) is available, this is the inventory gui for bukkit of emerging。 TrMenu will be deprecated.
+# [Invero](http://invero.trixey.cc/) is available, this is the inventory gui for bukkit of emerging。 TrMenu will be deprecated
 
 ---
 ## (Deprecated) TrMenu
